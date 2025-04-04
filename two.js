@@ -1,5 +1,5 @@
-// JavaScript Program To Check If A Variable Is undefined or null
-// JavaScript Program to Set a Default Parameter Value For a Function
+//Check If A Variable Is undefined or null
+//Set a Default Parameter Value For a Function
 
 
 //x=null->output:num is undefined or null
