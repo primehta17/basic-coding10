@@ -1,4 +1,5 @@
-// To Perform Intersection Between Two Arrays(by Set)
+// Set Union Operation(only different values)
+
 // perform union operation
 // contain elements of both sets
 
